@@ -6,13 +6,14 @@ Publico al que esta dirigido: Personas que realizan deportes y actividades físi
 
 
 > GRUPO 3 - Descripción de los integrantes:
+
 Lionel Benjamin Rojas
 
 Gabriel Casali
 
 Gonzalo Albornoz
 
-Fatima Morena Ledesma
+Fatima Morena Ledesma 
 
 Fabrizio Emanuel Rojas
 
@@ -31,3 +32,6 @@ https://ninayco.com
 
 - Por las funcionalidades immplementadas:
 https://www.montagne.com.ar
+
+- Por la amplitud de su mercado:
+https://www.dexter.com.ar
