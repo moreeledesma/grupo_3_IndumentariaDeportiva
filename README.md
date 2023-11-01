@@ -13,7 +13,7 @@ Gabriel Casali
 
 Gonzalo Albornoz
 
-Fatima Morena Ledesma 
+Fatima Morena Ledesma: Tengo 20 años, me gusta mucho escuchar musica mientras estoy programando (me inspira), soy muy detallista y perfeccionista (nose si es una ventaja o desventaja jaja).
 
 Fabrizio Emanuel Rojas
 
