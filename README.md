@@ -7,7 +7,7 @@ Publico al que esta dirigido: Personas que realizan deportes y actividades físi
 
 > GRUPO 3 - Descripción de los integrantes:
 
-Lionel Benjamin Rojas
+Lionel Benjamin Rojas: Tengo 21 años me gusta la programacion e ir al gimnasio , soy estudiante de la tecnicatura en programacion :)
 
 Gabriel Casali
 
