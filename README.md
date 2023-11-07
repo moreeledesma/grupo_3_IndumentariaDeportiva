@@ -15,7 +15,7 @@ Gonzalo Albornoz: Tengo 23 años. Me gustan mucho los deportes y la música. Soy
 
 Fatima Morena Ledesma: Tengo 20 años, me gusta mucho escuchar musica mientras estoy programando (me inspira), soy muy detallista y perfeccionista (nose si es una ventaja o desventaja jaja).
 
-Fabrizio Emanuel Rojas
+Fabrizio Emanuel Rojas: Hola! tengo 25 años, me gusta mucho ver series, escuchar musica y andar en moto. Soy profesor, pero me gustaria empezar en este nuevo mundo de la programacion 
 
 Romina Pereyra
 
