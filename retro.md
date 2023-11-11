@@ -1,8 +1,16 @@
 RETROSPECTIVA DEL SPRINT 1:
-- ¿Qué hicimos bien?: 
 
-- ¿Qué hicimos mal?:
+¿Qué hicimos bien?:
+Entregar a tiempo el sprint.
 
-- ¿Qué deberiamos empezar a hacer?:
+¿Qué hicimos mal?:
+No tener mucha comunicación con el grupo.
+No participar en el proyecto.
+No darle el tiempo necesario pra realizar el mismo
 
-- ¿Qué deberiamos dejar de hacer?: 
+¿Qué deberíamos empezar a hacer?:
+Pedir ayuda cuando la necesitemos.
+Colaborar y participar mas.
+
+¿Qué deberíamos dejar de hacer?:
+Avanzar sol@ con el proyecto.
