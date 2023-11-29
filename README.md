@@ -9,7 +9,7 @@ Publico al que esta dirigido: Personas que realizan deportes y actividades físi
 
 Lionel Benjamin Rojas: Tengo 21 años me gusta la programacion e ir al gimnasio , soy estudiante de la tecnicatura en programacion :)
 
-Gabriel Casali
+Gabriel Casali: Edad 25 años , Estudiante la facultad de medicina de la UNSE , me gusta el futbol aunque practico otros deportes tambien , escucho rock nacional y ahora tambien estoy con este proyecto personal de aprender programacion. 
 
 Gonzalo Albornoz: Tengo 23 años. Me gustan mucho los deportes y la música. Soy totalmente nuevo en este mundo de la programacion aunque siempre me gustaron los números y las computadoras, de a poco motivandome y conociendo las distintas habilidades que se pueden adquirir y las ideas que se pueden plasmar en cada proyecto/actividad :)
 
