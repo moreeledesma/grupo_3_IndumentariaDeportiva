@@ -22,6 +22,7 @@ a {
     font-size: 12px;
 }
 
+/* header*/
 
 header {
     background-color: #FFFFFF;
@@ -43,9 +44,8 @@ div.burger-menu i {
 div .logo {
     width: 40%;
     padding-left: 30px;
-    display: flex;
+    display: flex; /* Elimina uno de estos */
     align-items: center;
-    display: flex;
 }
 
 .top-header-left {
@@ -150,6 +150,22 @@ footer .footer-items{
 }
 
 
+footer {
+    background-color: #42ea2c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Añadido para apilar elementos verticalmente */
+}
+
+footer .footer-items {
+    display: flex;
+}
+
+.item {
+    margin: 5px;
+}
+
 footer .copyrigth {
     text-align: center;
     margin-top: 15px;
@@ -217,4 +233,93 @@ h2 {
 
 .boton-azul {
     background-color: #008CBA;
+}
+/* main */
+@media (min-width: 361px) {
+    .form__register {
+        background-color: #ebebeb;
+        width: 70%;
+        margin: 0 auto;
+        padding: 1rem;
+    }
+
+    .form__login {
+        width: 60%;
+    }
+
+    .top-header {
+        display: flex;
+        align-items: center;
+    }
+
+    header .nav__items {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    header .items,
+    header .account-items {
+        display: flex;
+        gap: 1rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .top-header .logo,
+    .top-header .form,
+    header div.top-header p {
+        width: 33%;
+    }
+
+    .nav__items {
+        display: block;
+    }
+
+    main section article .description {
+        display: block;
+    }
+
+    main section article {
+        box-shadow: 0px 0px 10px rgb(100, 100, 100);
+    }
+
+    main section div.products {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    main section div.products article {
+        width: 45%;
+    }
+
+    .price,
+    .discount {
+        width: 50%;
+    }
+}
+
+@media (min-width: 769px) {
+    .form__register {
+        background-color: #ebebeb;
+        width: 40%;
+        margin: 0 auto;
+        padding: 1rem;
+    }
+
+    .form__login {
+        width: 40%;
+    }
+
+    main section div.products article {
+        width: 22%;
+    }
+
+    .footer__container {
+        display: flex;
+        width: 90%;
+        margin: 0 auto;
+        gap: 2rem;
+    }
 }

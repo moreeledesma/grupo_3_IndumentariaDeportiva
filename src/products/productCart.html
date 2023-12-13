@@ -10,7 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet" />
-    <title>Bienvenidxs a SPORT COLLECTIONS</title>
+    <title>Carrito</title>
 </head>
 
 <body>
@@ -25,43 +25,53 @@
                     <div class="logo">
                         <img src="" alt="Logo">
                     </div>
-                </div>
-                <nav class="top-header-rigth">
-                    <li><i class="fa-solid fa-user"></i><a href="/login">Iniciar Sesión</a></li>
-                    <li><i class="fa-solid fa-user"></i><a href="/registro">Registrarse</a></li>
-                    <li><i class="fa-solid fa-bag-shopping"></i><a href="/carrito">CARRITO</a></li>
-                </nav>
+            </div>
             </div>
         </header>
-        <main>
-            <section class="carrusel">
-                <div class="product-card">
-                    <h5>Avoine Hooded Quilted Jacket</h5>
-                </div>
-                <div class="product-card">
-                    <h5>Avoine Hooded Quilted Jacket</h5>
-                </div>
-                <div class="product-card">
-                    <h5>Avoine Hooded Quilted Jacket</h5>
-                </div>
-            </section>
-            <section class="categoria">
-                <div class="article">
-                    <h3>CATEGORIA</h3>
-                </div>
-            </section>
-            <section class="categoria">
-                <div class="article">
-                    <h3>CATEGORIA</h3>
-                </div>
-            </section>
-            <section class="categoria">
-                <div class="article">
-                    <h3>CATEGORIA</h3>
-                </div>
-            </section>
 
-        </main>
+        <div id="carrito">
+            <h2>Carrito de Compras</h2>
+
+            <!-- Ver Objetos Comprados -->
+            <h3>Objetos Comprados</h3>
+            <table>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Precio</th>
+                </tr>
+                <!-- Aquí los objetos comprados en la tabla -->
+                <tr>
+                    <td>Producto 1</td>
+                    <td>$20.00</td>
+                </tr>
+                <tr>
+                    <td>Producto 2</td>
+                    <td>$30.00</td>
+                </tr>
+            </table>
+
+            <!-- Objetos Guardados -->
+            <h3>Objetos Guardados</h3>
+            <!-- Aquí puedes mostrar los objetos guardados, similar a la sección anterior -->
+
+            <!-- Formas de Pago -->
+            <h3>Formas de Pago</h3>
+            <form id="formPago">
+                <!-- Aquí puedes agregar opciones para la forma de pago (tarjeta, PayPal, etc.) -->
+                <label for="formaPago">Selecciona una forma de pago:</label>
+                <select id="formaPago" name="formaPago">
+                    <option value="tarjeta">Tarjeta de Crédito</option>
+                    <option value="paypal">PayPal</option>
+                    <!-- Agrega más opciones según sea necesario -->
+                </select>
+                <br>
+                <input type="submit" class="boton boton-verde" value="Pagar">
+            </form>
+
+            <!-- Tarifa Final -->
+            <h3>Tarifa Final</h3>
+            <p>Total a pagar: $50.00</p>
+        </div>
         <footer>
             <section class="footer-items">
                 <div class="item">
@@ -90,5 +100,6 @@
             </section>
         </footer>
     </body>
+</body>
 
 </html>
