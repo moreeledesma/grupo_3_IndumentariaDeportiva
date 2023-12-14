@@ -94,7 +94,7 @@ main {
 }
 
 footer{
-    background-color: #42ea2c;
+    background-color: #1aac06;
 }
 
 main .carrusel {
@@ -131,10 +131,10 @@ main .article {
 
 .categoria {
     width: 100%;
-    border: dotted 2px red;
+    border: inset 2px rgb(4, 99, 4);
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     margin: 20px 0px;
 }
